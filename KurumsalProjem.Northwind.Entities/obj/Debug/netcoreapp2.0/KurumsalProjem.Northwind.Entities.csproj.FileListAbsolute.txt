@@ -1,0 +1,11 @@
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.deps.json
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\bin\Debug\netcoreapp2.0\KurumsalProjem.Core.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\bin\Debug\netcoreapp2.0\KurumsalProjem.Core.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.csprojResolveAssemblyReference.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.AssemblyInfo.cs
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Entities\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.pdb

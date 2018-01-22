@@ -1,0 +1,9 @@
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Core\bin\Debug\netcoreapp2.0\KurumsalProjem.Core.deps.json
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Core\bin\Debug\netcoreapp2.0\KurumsalProjem.Core.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Core\obj\Debug\netcoreapp2.0\KurumsalProjem.Core.csprojResolveAssemblyReference.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Core\obj\Debug\netcoreapp2.0\KurumsalProjem.Core.csproj.CoreCompileInputs.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Core\obj\Debug\netcoreapp2.0\KurumsalProjem.Core.AssemblyInfoInputs.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Core\obj\Debug\netcoreapp2.0\KurumsalProjem.Core.AssemblyInfo.cs
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Core\bin\Debug\netcoreapp2.0\KurumsalProjem.Core.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Core\obj\Debug\netcoreapp2.0\KurumsalProjem.Core.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Core\obj\Debug\netcoreapp2.0\KurumsalProjem.Core.pdb

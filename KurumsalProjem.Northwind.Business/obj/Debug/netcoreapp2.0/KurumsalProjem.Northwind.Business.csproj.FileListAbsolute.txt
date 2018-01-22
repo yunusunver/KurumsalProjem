@@ -1,0 +1,15 @@
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Business.deps.json
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Business.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Business.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\bin\Debug\netcoreapp2.0\KurumsalProjem.Core.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\bin\Debug\netcoreapp2.0\KurumsalProjem.Core.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Business.csprojResolveAssemblyReference.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Business.AssemblyInfoInputs.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Business.AssemblyInfo.cs
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Business.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.Business\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Business.pdb

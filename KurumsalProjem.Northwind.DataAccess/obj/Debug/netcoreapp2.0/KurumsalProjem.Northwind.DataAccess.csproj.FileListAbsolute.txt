@@ -1,0 +1,13 @@
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\bin\Debug\netcoreapp2.0\KurumsalProjem.Core.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.csprojResolveAssemblyReference.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.deps.json
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\bin\Debug\netcoreapp2.0\KurumsalProjem.Core.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\bin\Debug\netcoreapp2.0\KurumsalProjem.Northwind.Entities.pdb
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.dll
+C:\Users\unver\source\repos\KurumsalProjem\KurumsalProjem.Northwind.DataAccess\obj\Debug\netcoreapp2.0\KurumsalProjem.Northwind.DataAccess.pdb
